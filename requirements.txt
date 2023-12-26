@@ -1,0 +1,6 @@
+PyAudio==0.2.14
+faster-whisper==0.10.0
+pydub==0.25.1
+gradio==4.11.0
+SoundFile==0.12.1
+SoundCard==0.4.2
